@@ -1,0 +1,173 @@
+
+
+#navItem1 {
+  color: #323f4b;
+  font-family: "Roboto";
+ 
+  margin:2px;
+}
+#navItem2 {
+  color: #323f4b;
+  font-family: "Roboto";
+  margin:2px;
+}
+#navItem3 {
+  color: #323f4b;
+  font-family: "Roboto";
+
+  margin:2px;
+}
+#navItem4 {
+  color: #323f4b;
+  font-family: "Roboto";
+
+  margin:2px;
+}
+.banner-section-bg-container {
+  background-image: url("bg.jpg");
+  height: 100vh;
+  background-size: cover;
+  align-items: center;
+}
+.banner-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 45px;
+  font-weight: 300;
+}
+.banner-caption {
+  color: #f5f7fa;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 300;
+}
+.custom-button {
+  color:white;
+  background-color:#d0b200;;
+  width:200px;
+  height:200px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+  box-shadow: inset;
+  padding: 12px;
+  font-weight:bold;
+  font-family: roboto;
+}
+.custom-outline-button {
+  color: #d0b200;
+  background-color: transparent;
+  width: 130px;
+  height: 45px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d0b200;
+  border-radius: 10px;
+}
+.textbackground{
+    background-color:rgb(247, 136, 237);
+    width:400px;
+    height:270px;
+    border-radius:20px;
+
+}
+.image{
+    width:500px;
+    height:400px;
+    margin:20px;
+    border-radius:20px;
+}
+.text{
+    padding:30px;
+}
+.navbars{
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: indianred;
+    
+    
+}
+.textcolor{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.textcolor1{
+  color: #f5f7fa;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 35px;
+  text-align: end;
+}
+.explore{
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color:white;
+}
+.img {
+  border-radius: 16px;
+}
+.images{
+  height:150px;
+  width:60px;
+ 
+}
+.imgs{
+
+background-color: pink;
+margin-left:10px;
+margin-right: 10px;
+margin-top: 10px;
+border-radius:20px;
+}
+.imgs1{
+
+  background-color: greenyellow;
+}
+.imgs2{
+  background-color: rgb(226, 47, 136);
+}
+.imgs3{
+  background-color: rgb(78, 227, 238);
+}
+.imgs4{
+  background-color: rgb(49, 252, 83);
+}
+.imgs5{
+  background-color: rgb(230, 22, 22);
+}
+.back{
+  background-image:url("projestsbg.jpg");
+  background-size: cover;
+  height:100vh;
+  width:100vw;
+ padding:10px;
+ box-shadow: inset rgb(232, 238, 232);
+ opacity: 1;
+}
+.imgs {
+  background-color: pink;
+  margin-left: 18px;
+  margin-right: 18px;
+  margin-top: 5px;
+  border-radius: 20px;
+  transition: transform 0.3s ease;
+}
+
+.imgs:hover {
+  transform: scale(1.1);
+}
+
+.imgs.selected {
+  background-color: #ff69b4; /* Update with your desired color */
+}
+
+.imgs.selected:hover {
+  transform: scale(1.05); /* Update with your desired scale */
+}
+.contacts-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
